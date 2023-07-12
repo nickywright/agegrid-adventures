@@ -2,8 +2,9 @@
 
 This repository contains various agegrid-related things that can be used for outreach (or just for fun)!
 
-<video autoplay="" src="https://github.com/nickywright/agegrid-adventures/assets/19943774/a75d79f3-6a2f-4a32-89c7-6edca99ee76d" style="max-width: 100px;">
-</video>
+<p align="center">
+<img src="https://github.com/nickywright/agegrid-adventures/assets/19943774/f00306f5-6f50-4f68-831c-2924fabace82" width=120% />
+</p>
 
 ---
 
